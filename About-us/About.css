@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+width: 100%;
+height: 660px;
+background-color: #FFB400;
+}
+.head-2-u{
+    position: absolute;
+    color: black;
+    z-index: 3;
+}
+.para-u{
+    position: absolute;
+    z-index: 3;
+    text-align: left;
+    align-items: center;
+    top: 200;
+}
+.sp-1{
+    width: 100%;
+    position: absolute;
+}
+.sp-2{
+    width: 100%;
+    position: absolute;
+    bottom:0;
+}
